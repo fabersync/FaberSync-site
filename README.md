@@ -67,7 +67,9 @@ După modificarea fișierelor CSS sau JS, crește numărul de versiune din link-
 
 ## Publicare
 
-Fiind un site static, poate fi publicat gratuit pe **GitHub Pages**, **Netlify**, **Vercel** sau **Cloudflare Pages**, cu domeniul `fabersync.com`.
+Site-ul este publicat cu **GitHub Pages**, din ramura `main`, pe domeniul [fabersync.com](https://fabersync.com). Domeniul este setat în fișierul `CNAME`.
+
+Orice modificare urcată în `main` apare online în 1–2 minute.
 
 ---
 
