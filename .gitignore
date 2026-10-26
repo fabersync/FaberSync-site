@@ -1,0 +1,19 @@
+# Sistem de operare
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editoare
+.vscode/
+.idea/
+*.swp
+
+# Fișiere locale / temporare
+*.log
+*.tmp
+.claude/
+
+# Documente interne (oferte, contracte) — nu se publică
+*.pdf
+oferte/
+contracte/
