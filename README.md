@@ -67,9 +67,9 @@ După modificarea fișierelor CSS sau JS, crește numărul de versiune din link-
 
 ## Publicare
 
-Site-ul este publicat cu **GitHub Pages**, din ramura `main`, pe domeniul [fabersync.com](https://fabersync.com). Domeniul este setat în fișierul `CNAME`.
+Site-ul este găzduit la **Hostico**, pe domeniul [fabersync.com](https://fabersync.com). Fișierele se urcă în folderul `public_html` din contul de hosting (cPanel → File Manager).
 
-Orice modificare urcată în `main` apare online în 1–2 minute.
+`robots.txt` și `sitemap.xml` ajută Google să găsească și să indexeze toate paginile.
 
 ---
 
