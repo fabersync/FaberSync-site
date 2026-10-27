@@ -1,0 +1,6 @@
+# FaberSync — o singură adresă oficială: https://fabersync.com
+# (redirecționează www și http către varianta principală, cu 301 permanent)
+RewriteEngine On
+RewriteCond %{HTTPS} off [OR]
+RewriteCond %{HTTP_HOST} ^www\. [NC]
+RewriteRule ^(.*)$ https://fabersync.com/$1 [L,R=301]
